@@ -1,3 +1,5 @@
+<img src="https://drive.google.com/uc?export=view&id=1vcOoKid7tekI1HWMRH5qgEyxbaWHfLWT" alt="Mehedi Hasan Shohan Banner" width="100%" />
+
 <img src="https://drive.google.com/uc?export=view&id=1vcOoKid7tekI1HWMRH5qgEyxbaWHfLWT" alt="Banner" width="100%" />
 <h1 align="center">Hi 👋, I'm Mehedi Hasan Shohan</h1>
 <h3 align="center">A passionate frontend developer from BanglaDesh</h3>
