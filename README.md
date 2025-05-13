@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/mehedihasanshohan/mehedihasanshohan/main/gitbanner.png" alt="Banner" width="100%" />
+<img src="https://raw.githubusercontent.com/mehedihasanshohan/mehedihasanshohan/main/githubbanner.png" alt="Banner" width="100%" />
 <h1 align="center">Hi 👋, I'm Mehedi Hasan Shohan</h1>
 <h3 align="center">A passionate frontend developer from BanglaDesh</h3>
 
