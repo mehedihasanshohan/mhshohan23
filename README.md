@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedihasanshohan&label=Profile%20views&color=0e75b6&style=flat" alt="mehedihasanshohan" /> </p>
 
-- 🔭 I’m currently working on [shohan-portfolio](https://github.com/mehedihasanshohan/shohan-portfolio)
+- 🔭 I’m currently working on [javascript-fundamentals](https://github.com/mehedihasanshohan/js-bible)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I'm currently improving my **JavaScript** skills and exploring **React.js** to build dynamic user interfaces.
 
 - 👨‍💻 All of my projects are available at [https://github.com/mehedihasanshohan/shohan-portfolio](https://github.com/mehedihasanshohan/shohan-portfolio)
 
-- 💬 Ask me about **tailwindcss, javascript, react**
+- 💬 Feel free to ask me about **JavaScript**, **React.js**, or anything frontend!
 
 - 📫 How to reach me **mhshohan01@gmail.com**
 
