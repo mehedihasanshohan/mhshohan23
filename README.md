@@ -1,10 +1,10 @@
 <img src="https://raw.githubusercontent.com/mehedihasanshohan/mehedihasanshohan/main/githubbanner.png" alt="Banner" width="100%" />
 <h1 align="center">Hi 👋, I'm Mehedi Hasan Shohan</h1>
-<h3 align="center">A passionate frontend developer from BanglaDesh</h3>
+<h3 align="center">A passionate Frontend Developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedihasanshohan&label=Profile%20views&color=0e75b6&style=flat" alt="mehedihasanshohan" /> </p>
 
-- 🔭 I’m currently working on [javascript-fundamentals](https://github.com/mehedihasanshohan/js-bible)
+- 🔭 I’m currently working on [Javascript-fundamentals](https://github.com/mehedihasanshohan/javascript-bible)
 
 - 🌱 I'm currently improving my **JavaScript** skills and exploring **React.js** to build dynamic user interfaces.
 
